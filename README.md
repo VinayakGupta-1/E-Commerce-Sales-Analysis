@@ -28,7 +28,6 @@ This project analyzes an e-commerce dataset to uncover business insights and vis
   - Pandas  
   - NumPy  
   - Matplotlib / Seaborn  
-- **Power BI** (Dashboard)
 
 ---
 
@@ -42,28 +41,9 @@ This project analyzes an e-commerce dataset to uncover business insights and vis
 - Identified loss-making sub-categories  
 - Region-wise profit comparison  
 
-### 🔹 Customer Segmentation
-- Segmented customers into:
-  - High Value  
-  - Medium Value  
-  - Low Value  
-
-### 🔹 Discount Analysis
-- Analyzed impact of discounts on profit  
-- Found correlation between high discounts and losses  
-
 ---
 
-## 📈 Dashboard Features
-- 📌 KPI Cards (Total Sales, Profit, Orders)  
-- 📊 Sales by Category  
-- 📉 Profit by Sub-Category  
-- 🌍 Sales by Region  
-- 📅 Monthly Sales Trend  
-- 👥 Customer Segmentation  
-- 💸 Discount vs Profit  
 
----
 
 ## 🔍 Key Insights
 - Some sub-categories consistently generate losses  
